@@ -1,17 +1,11 @@
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
+![list](http://joxi.ru/5md9GQqCaK5WP2.jpg)
 
-(http://joxi.ru/5md9GQqCaK5WP2)
-
-# Получаем контакт по id
-
-node index.js --action get --id 5
-(http://joxi.ru/BA0YaRotvNz3Wr)
+# Получаем контакт по id:
+![get](http://joxi.ru/BA0YaRotvNz3Wr.jpg)
 
 # Добавялем контакт
-
-(http://joxi.ru/VrwxpMdij5zeOm)
+![add](http://joxi.ru/VrwxpMdij5zeOm.jpg)
 
 # Удаляем контакт
-
-node index.js --action remove --id=3
-(http://joxi.ru/823Yg5otaXO0lr)
+![remove](http://joxi.ru/823Yg5otaXO0lr.jpg)
